@@ -10,6 +10,10 @@ body {
     min-height: 100vh;
 }
 
+.nav a {
+    color: white;
+}
+
 main {
     display: grid;
     grid-template-areas: 'a a a b' 'c c d d' 'c  c e e' 'c c e e';

@@ -81,6 +81,7 @@
          color: hsl(0, 0%, 95%);
          background-color: transparent;
      }
+     /* responsiveness */
      
      @media only screen and (max-width:768px) {
          .wrapper {
